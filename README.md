@@ -1,4 +1,4 @@
-# Servlet_JDBC_20201230
+# Servlet + JDBC 用户表的增删改查，文件上传
 - 妹子写的JDBC+Servlet的项目，我帮他解决了一些Bug和实现了文件上传功能。
 - 只需要看首页的或者 admin_user.jsp 页面的 用户增删改查。
 - 代码不规范请忽略，仅供小白初学者使用
