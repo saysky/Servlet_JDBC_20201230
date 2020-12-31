@@ -1,0 +1,21 @@
+  @charset "utf-8";
+ 
+  .tbl-title {
+    margin: 10px 0;
+    font-size: 24px;
+   }
+  
+  .tbl-list {
+    margin: 10px 0;
+    border: 1px solid #000000;
+    border-collapse: collapse;
+  }
+  
+  .tbl-list th, .tbl-list td {
+    padding: 5px;
+    border: 1px solid #000000;
+  }
+  
+  .modal-tbl{}
+
+ 
